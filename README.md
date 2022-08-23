@@ -17,5 +17,10 @@ Kodluyoruz OOP eğitimi ödevleri
 ![fli-uml](flight-manag-system.png)
 
 ---
+### Online Movie System UML Diagram
+
+![mov-uml](online-movie-system.png)
+
+---
 ## Links
 [www.patika.dev/koixos](https://app.patika.dev/koixos)
