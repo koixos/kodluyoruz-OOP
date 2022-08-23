@@ -12,5 +12,10 @@ Kodluyoruz OOP eğitimi ödevleri
 ![zoo-uml](zoo-manag-sys-uml_diagram.jpg)
 
 ---
+### Flight Management System UML Diagram
+
+![fli-uml](flight-manag-system.png)
+
+---
 ## Links
 [www.patika.dev/koixos](https://app.patika.dev/koixos)
