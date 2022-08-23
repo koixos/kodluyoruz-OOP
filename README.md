@@ -22,5 +22,10 @@ Kodluyoruz OOP eğitimi ödevleri
 ![mov-uml](online-movie-system.png)
 
 ---
+### Asansör Simülasyonu
+
+![lif-uml](lift-simulation.jpg)
+
+---
 ## Links
 [www.patika.dev/koixos](https://app.patika.dev/koixos)
